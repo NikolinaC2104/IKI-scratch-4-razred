@@ -1,5 +1,6 @@
 # IKI-scratch-4-razred
 Zadatak za IKI stručni razgovor.
+Link: https://scratch.mit.edu/projects/1374561319 
 
 ## Lov na banane
 U ovoj igrici igrač upravlja likom pomoću strelica na tipkovnici.
